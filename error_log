@@ -1,0 +1,17 @@
+[26-Mar-2021 08:54:08 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 4096 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/RuleSetGenerator.php on line 129
+[27-Mar-2021 07:04:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kafesta/public_html/qtonix_inventory/app/Http/Controllers/ProductController.php on line 65
+[27-Mar-2021 07:05:20 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kafesta/public_html/qtonix_inventory/app/Http/Controllers/ProductController.php on line 64
+[27-Mar-2021 07:05:59 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kafesta/public_html/qtonix_inventory/app/Http/Controllers/ProductController.php on line 64
+[27-Mar-2021 07:18:30 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kafesta/public_html/qtonix_inventory/app/Http/Controllers/ProductController.php on line 69
+[27-Mar-2021 07:31:02 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kafesta/public_html/qtonix_inventory/app/Http/Controllers/ProductController.php on line 69
+[27-Mar-2021 07:31:05 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kafesta/public_html/qtonix_inventory/app/Http/Controllers/ProductController.php on line 69
+[27-Mar-2021 07:31:08 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kafesta/public_html/qtonix_inventory/app/Http/Controllers/ProductController.php on line 69
+[27-Mar-2021 07:31:21 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kafesta/public_html/qtonix_inventory/app/Http/Controllers/ProductController.php on line 69
+[27-Mar-2021 07:32:28 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kafesta/public_html/qtonix_inventory/app/Http/Controllers/ProductController.php on line 69
+[27-Mar-2021 07:33:03 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kafesta/public_html/qtonix_inventory/app/Http/Controllers/ProductController.php on line 69
+[30-Mar-2021 09:39:45 UTC] PHP Fatal error:  Trait 'App\Models\ColumnFillable' not found in /home/kafesta/public_html/qtonix_inventory/app/Models/Product.php on line 13
+[30-Mar-2021 09:40:39 UTC] PHP Fatal error:  Trait 'App\Models\ColumnFillable' not found in /home/kafesta/public_html/qtonix_inventory/app/Models/Product.php on line 13
+[30-Mar-2021 09:41:17 UTC] PHP Fatal error:  Trait 'App\Models\ColumnFillable' not found in /home/kafesta/public_html/qtonix_inventory/app/Models/Product.php on line 13
+[30-Mar-2021 10:19:38 UTC] PHP Fatal error:  Can't use method return value in write context in /home/kafesta/public_html/qtonix_inventory/app/Http/Controllers/ProductController.php on line 90
+[20-Apr-2021 10:20:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/kafesta/public_html/qtonix_inventory/app/Http/Controllers/ProductController.php on line 118
+[11-May-2021 12:30:38 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Hash as Hash because the name is already in use in /home/kafesta/public_html/qtonix_inventory/app/Http/Controllers/UserController.php on line 9
